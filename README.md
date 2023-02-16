@@ -21,7 +21,7 @@
 </p>
 
 <!-- hero screenshot -->
-![demo](packages\images\portfolioHomePage.png)
+![demo](https://github.com/Geetu-Rana/Geetu-Rana.github.io/blob/master/packages/images/portfolioHomePage.png)
 
 ## Features 📋
 ⚡️ Minimal Design\
